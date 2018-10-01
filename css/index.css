@@ -1,0 +1,53 @@
+
+
+.logo{
+  height: 80px;
+}
+.header{
+  background: #E0EAEB;
+  border-bottom: 3px solid #fc5c65;
+}
+
+.container-slide{
+  border: 3px 0px solid #fc5c65;
+  border-radius: 1px;
+  height: 30%;
+}
+
+li
+ {
+  font-family: 'Mali', cursive;
+}
+
+h2{
+  font-family: 'Mali', cursive;
+}
+p{
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+li:hover{
+  background: #fc5c65;
+  border-radius: 5%;
+}
+
+.mision-vision{
+    background-color: #ef476f;
+}
+
+.slider-section{
+  background-color: #cae5ff;
+  padding: 20px 0;
+}
+
+.rowmv{
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px; 
+}
+
+#formulario{
+  background-color: #cae5ff;
+  padding: 20px 0px;
+}
