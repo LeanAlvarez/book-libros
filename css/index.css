@@ -33,21 +33,32 @@ li:hover{
 
 .mision-vision{
     background-color: #ef476f;
+    padding: 100px 0px;
 }
 
 .slider-section{
-  background-color: #cae5ff;
-  padding: 20px 0;
+
+  padding: 0px;
 }
 
 .rowmv{
   margin-left: 0px;
   margin-right: 0px;
   padding-left: 0px;
-  padding-right: 0px; 
+  padding-right: 0px;
+}
+#productos{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #913D88;
 }
 
 #formulario{
   background-color: #cae5ff;
-  padding: 20px 0px;
+  padding: 100px 0px;
+}
+
+footer{
+  padding: 50px;
+  background-color: #26C281;
 }
