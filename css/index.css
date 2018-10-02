@@ -19,11 +19,12 @@ li
   font-family: 'Mali', cursive;
 }
 
-h2{
-  font-family: 'Mali', cursive;
+h5,h2,h3,h4{
+  font-family: 'Anton', sans-serif;
+  font-style: italic;
 }
-p{
-  font-family: 'Nunito Sans', sans-serif;
+p,a{
+  font-family: 'Mali', cursive;
 }
 
 li:hover{
@@ -61,4 +62,31 @@ li:hover{
 footer{
   padding: 50px;
   background-color: #26C281;
+}
+
+#ubicacion{
+  padding: 100px 0px;
+  background-color: #ABB7B7;
+}
+
+.texto-ubicacion{
+  margin-top: 40px;
+}
+
+.sociales{
+  color: #2C3E50;
+}
+
+.sociales:hover{
+  color: #F4B350;
+}
+
+.text-img{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.text-img2{
+  font-size: 20px;
+  font-weight: 400;
 }
